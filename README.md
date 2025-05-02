@@ -1,16 +1,35 @@
-# weather_app
+# 🌦️ Flutter Weather App
 
-A new Flutter project.
+A modern weather app built with **Flutter** using **BLoC architecture**, which allows users to:
+- Search weather conditions by **country**, **city**, or **your current location**.
+- Automatically detect location using GPS.
+- View dynamic UI with **background color changes based on weather**.
+- Consume live data from a **public Weather API**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🔥 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌍 Search weather globally by city or country
+- 📍 Use device location to get local weather
+- ☀️ Dynamic background UI based on temperature/condition
+- ⚙️ BLoC pattern for clean architecture
+- 🌐 Uses OpenWeatherMap API (or specify the one used)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies
+
+- Flutter
+- BLoC
+- HTTP (API Integration)
+- Geolocator / Location
+- Weather API (e.g. OpenWeatherMap)
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the project:
+   ```bash
+   git clone https://github.com/
